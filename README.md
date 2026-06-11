@@ -18,3 +18,4 @@ A lightweight, command-line budget management tool that tracks income and expens
 - List everything: `python budget.py list`
 - Check balance: `python budget.py summary`
 - Delete an item: `python budget.py delete --id 1`
+<img width="798" height="293" alt="image" src="https://github.com/user-attachments/assets/807afee0-2f0e-47e7-866f-c81cae4bc4de" />
